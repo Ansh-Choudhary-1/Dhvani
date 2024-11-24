@@ -1,16 +1,16 @@
 # Dhvani
 
-#Federated Learning on Blockchain Platform with Explainable AI (XAI)
-#Overview
-This platform combines Federated Learning, Blockchain, and Explainable AI (XAI) to revolutionize the way AI models are developed, trained, and deployed. It focuses on ensuring data privacy, security, scalability, and regulatory compliance while fostering international cooperation for AI model development. The platform enables collaborative, decentralized AI model training without requiring sensitive data to leave its local environment. Blockchain technology ensures that model updates are immutable, transparent, and auditable, while XAI provides understandable and trustworthy justifications for AI decisions.
+<h1>Federated Learning on Blockchain Platform with Explainable AI (XAI)</h1>
+<h2>Overview</h2>
+<p>This platform combines Federated Learning, Blockchain, and Explainable AI (XAI) to revolutionize the way AI models are developed, trained, and deployed. It focuses on ensuring data privacy, security, scalability, and regulatory compliance while fostering international cooperation for AI model development. The platform enables collaborative, decentralized AI model training without requiring sensitive data to leave its local environment. Blockchain technology ensures that model updates are immutable, transparent, and auditable, while XAI provides understandable and trustworthy justifications for AI decisions.</p>
 
-#Key Features
-#1. Federated Learning for Decentralized Training
-Cooperative Model Training: Enables multiple enterprises to train AI models collaboratively without sharing raw data.
-Data Privacy: Sensitive information remains within local environments, ensuring privacy.
-International Cooperation: Facilitates cross-border collaboration while adhering to stringent data privacy regulations.
-#2. Immutable Ledger with Blockchain Integration
-Blockchain for Data Integrity: Ensures that all model updates are securely recorded, preventing data manipulation.
+<h2>Key Features</h2>
+<h4>1. Federated Learning for Decentralized Training</h4>
+<p>Cooperative Model Training: Enables multiple enterprises to train AI models collaboratively without sharing raw data.</p>
+<b>Data Privacy:</b> Sensitive information remains within local environments, ensuring privacy.
+<b>International Cooperation:</b> Facilitates cross-border collaboration while adhering to stringent data privacy regulations.
+<h4>2. Immutable Ledger with Blockchain Integration</h4>
+<b>Blockchain for Data Integrity:</b> Ensures that all model updates are securely recorded, preventing data manipulation.
 Smart Contracts: Automates privacy policies and pay-per-contribution models based on participants' model contributions.
 Data Provenance: Tracks the source of data and model updates, ensuring transparency and regulatory compliance.
 #3. Explainable AI (XAI) for Model Interpretability
