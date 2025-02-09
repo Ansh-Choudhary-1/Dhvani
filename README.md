@@ -17,7 +17,7 @@
 <li>	Immediate Document Generation System: If a document is urgently required, Dhvani’s automated system enables instant document generation upon OTP verification, ensuring compliance without delays or missed sales opportunities.</li>
 </ul>
 
-For Buyers (International):
+<b>For Buyers (International):</b>
 1.	Worldwide Access to Local Products: An online marketplace featuring a variety of Indian  products as well as local products from other countries that makes it simple for buyers from other countries to browse and place orders.
 2.	Comparison Tool: A tool that helps consumers make well-informed selections by comparing the cost and quality of products with nearby alternatives- available across all other e-commerce platforms(in their region and outside).
 3.	Order Tracking: Using MCF's API, buyers may monitor orders in real time. + Return services and doorstep delivery.
